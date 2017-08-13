@@ -1,0 +1,7 @@
+To add:
+  * Icon
+  * Picture
+
+To improve:
+  * Readme.md
+  * Add license and credit info
