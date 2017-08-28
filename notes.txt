@@ -1,8 +1,14 @@
-To add:
-  * Icon
-  * Picture
+Copyright:
+  * Jekyll Now forked from here with MIT License:
+    https://github.com/barryclark/jekyll-now
 
+To add:
+  *
+  
 To improve:
-  * Readme.md
+  * convert notes to readme
   * Add link to website
   * Add license and credit info
+
+Bug/Glitch:
+  *
