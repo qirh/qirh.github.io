@@ -1,10 +1,12 @@
 Copyright:
   * Jekyll Now forked from here with MIT License:
     https://github.com/barryclark/jekyll-now
+  * Website icon downloaded from icons8.com
+    https://icons8.com/icon/1348/Website
 
 To add:
   *
-  
+
 To improve:
   * convert notes to readme
   * Add link to website
