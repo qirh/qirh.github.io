@@ -1,4 +1,5 @@
-##Copyright:
+##Copyright Information:
+  * This project is released under the MIT license
   * Jekyll Now forked from here with MIT License:
     https://github.com/barryclark/jekyll-now
   * Website icon downloaded from flaticon.com
