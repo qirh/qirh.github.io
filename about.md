@@ -10,5 +10,7 @@ Ok, so the secret is yogurt and sumac in the blender
 
 a twist of lemon too
 
-### Jekyll repo forked from here:
-https://github.com/barryclark/jekyll-now
+### My website:
+  http://www.saladesaleh.com
+### Repo for this blog:
+  https://github.com/qirh/qirh.github.io
