@@ -4,11 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-Ok, so the secret is yogurt and sumac in the blender
+Ok, so the secret is yogurt and sumac in the blender and a twist of lime
 
 ### More Information
-
-a twist of lemon too
+Hey, I'm saleh, and I have made so many blogs only for them to be deleted. Hopefully, perhaps this one will survive a little bit longer.
 
 ### My website:
   [http://www.saladesaleh.com]
