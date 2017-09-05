@@ -8,12 +8,11 @@
 
 ## Author's notes:
 
-### Things to add:
+### Known bugs:
   * nada
 
-### Things to improve:
-  * Add link to website
-  * Add license and credit info
+### Things to add:
+  * more blog posts, ideas: Technology developing faster than storytellers could keep up, Going on an information diet
 
-### Things broken:
+### Things to improve:
   * nada
