@@ -13,7 +13,6 @@
 
 ### Things to add:
   * more blog posts, ideas:
-    * Technology developing faster than storytellers could keep up
     * Going on an information diet
 
 ### Things to improve:
