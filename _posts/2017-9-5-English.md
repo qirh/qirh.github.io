@@ -8,3 +8,5 @@ Ok so it's really interesting why certain languages are perceived as "pretty" an
 However, for me, English is the most beautiful language in the world. Not because of how it sounds or its' characteristics, but because I think part of the beauty of a language are the people that speak it. And knowing English has enabled me to meet a lot of people that I wouldn't have been able to communicate with otherwise and that makes me really thankful to have learnt English and makes it a pretty language in my eyes.
 
 p.s another thing that I appreciate about English is the lack of accents, it's so nice not to worry about accents :)
+
+p.s #2 I really appreciate that English has a minimal use of prefixes and suffixes, they're such a pain to use!
