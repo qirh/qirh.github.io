@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Technology developing faster than storytellers could keep up
+title: Technology lapping storytelling
 ---
 
 Technology is developing faster than we can cope with, our cities are not built to withstand change and neither are we. However, we have been adopting well, and although not as well as us, but the major metropolitan areas have been adopting to new technologies as well.
