@@ -27,17 +27,11 @@ footer-links:
   stackoverflow:
   youtube:
   googleplus:
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: qirh.github.io
-
+future: true
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
@@ -79,4 +73,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-future: true
