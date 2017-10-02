@@ -12,6 +12,6 @@
   * nada
 ### Things to add:
   * more blog posts, possible ideas:
-    * Going on an information diet
+    * Information diet
 ### Things to improve:
   * nada
