@@ -2,7 +2,7 @@
 layout: post
 title: Software snapshots
 ---
-In general, software is not as reliable as other things that we build, it requires constant maintenance just to keep functioning. I am willing to wager that most of the software that has been built is already broken. Because everything else we build does rely on other services i.e. cars rely on petrol to work at all. However, software is unique though.
+In general, software is not as rigid as other things that we build, it requires constant maintenance just to keep functioning. I am willing to wager that most of the software that has been built is already broken. Because everything else we build does rely on other services i.e. cars rely on petrol to work at all. However, software is unique though.
 
 In the previous example, the petrol industry is reliable, as long as cars have existed, they have always be there. And we act as like they will always exist in the future. People who build cars don't have to take into account the fact that one day petrol will not be available and thus they would have to build another fuel system in the car just in case they would have to use it.
 
@@ -15,3 +15,5 @@ I think that digital libraries and sources of information are superior to the "o
 Furthermore, imagine with me what will happen if one of the major sources of data on the internet e.g. (social media site or cloud services) goes down. And inevitably, they will all go down, then a huge source of human history will be lost with it.
 
 Lastly, I hope that in the future, there will exist a way for us to snapshot a software in its current state. That is to say a snapshot that is more than just an archive, but a fully functioning snapshot even after the APIs and other services are down. Off course, I don't even know how to begin to approach this problem, but I still think it is critical that we work on it asap.
+
+In summary, unlike other things that we build, software is vitally dependent on a whole bunch of other things that are constantly changing. And to preserve the knowledge and history that we perhaps only record with software, we need to develop "bubble" sort of environments that preserve the state of software and all of it's dependencies.
