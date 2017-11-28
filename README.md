@@ -11,7 +11,6 @@
 ### Known bugs:
   * nada
 ### Things to add:
-  * more blog posts, possible ideas:
-    * Information diet
+  * nada
 ### Things to improve:
   * nada

@@ -7,9 +7,9 @@ permalink: /about/
 Ok, so the secret is yogurt and sumac in the blender and a twist of lime.
 
 ### More Information
-Hey, I'm saleh, and I have made so many blogs only for them to be deleted. Hopefully, perhaps this one will survive a little bit longer. My email is listed in the bottom banner, please let me know what you think! Also, this blog is powered by [Jekyll Now.](http://http://www.jekyllnow.com/)
+Hey, I'm saleh, and I am a bit of a perfectionist and that has led me to cancel a lot of personal projects, because I could never find enough time to work on them and get them to a level that I like. However, I'm starting this project with the goal of trying to fight the urge of cancelling it even if it is flawed and so many the posts are unedited.
 
-p.s most of the work that I do in my life I either want it to be good, or I do it for someone and thus want to turn in something that is good. However, this blog is neither of those two, so I'm probably not going to proof read anything
+Lastly, my email is listed in the bottom banner, please let me know what you think! Also, this blog is powered by [Jekyll Now.](http://http://www.jekyllnow.com/)
 
 ### My website
   [saladesaleh.com](http://saladesaleh.com)
