@@ -11,4 +11,4 @@ There are so many things that I like about social media, it keeps me connected w
 
   * Privacy: I dislike that social media tracks it's users. And also, I dislike that there exists a public history of me.
 
-  * I feel like posting on social media is like gathering all my friends in one room and having their attention to say something. And honestly, when I think of having such a diverse group of people, I can't think of a common denominator that I could use to start a conversation.
+  * I feel like posting on social media is like gathering all my friends in one room and having their attention to say something. And honestly, when I think of having such a diverse group of people in one place, I just can't think of a common denominator between them all that I could use to start a conversation.
