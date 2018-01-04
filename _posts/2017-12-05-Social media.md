@@ -3,7 +3,9 @@ layout: post
 title: Social media
 ---
 
-There are so many things that I like about social media, it keeps me connected with so many people that I love and care about that I would never have the time to be connected with otherwise. However, it is also a double edged sword, I hate so many things about it, without much detail, these are some of things that bother me most about it.
+There are so many things that I like about social media. It keeps me connected with so many people that I love and care about. People that otherwise I would never have the time/energy to connect with.
+
+However, it is also a double edged sword, I hate so many things about it, here's some of them:
 
   * For many people (almost everyone I know) it is an extremely toxic echo chamber. And while I think that most people live their lives only being exposed to opinions that they agree with, with social media, it is a little bit different, because social media sells itself as a platform that connects people from all backgrounds, but often, social media is curated to enforce tunnel visioning among it's users.
 
