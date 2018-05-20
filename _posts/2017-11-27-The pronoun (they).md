@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "They"
+title: The pronoun (they)
 ---
 The pronoun "they" and it's derivatives are used to refer to people who do not identify with the gender binary. While I think that this usage is an important one to have in inclusive societies, at the same from a linguistic point, it introduces more ambiguity to English. A language that in my opinion is not intuitively clear.
 
