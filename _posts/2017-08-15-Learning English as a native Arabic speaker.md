@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Second languages
+title: Learning English as a native Arabic speaker 
 ---
 
 A lot of times, when someone speaks a second language, it's easy to deduce what their first language is. For instance, I could tell a German speaking English from a Francophone speaking English from a mile away (as long as they have accents of course).

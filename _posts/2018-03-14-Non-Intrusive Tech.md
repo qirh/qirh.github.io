@@ -3,10 +3,8 @@ layout: post
 title: Non-Intrusive Tech
 ---
 
-Data is one of the most powerful tools one can have. And with the advent of wearable tech, having accurate information about one's bosy is easier than ever.
+This blog is still a work in progress, things I want to cover:
 
-I personally have a 
-
-I love everything about data, 
-
-Most tech gadegets make me feel very uncomfort
+1. Collecting data about yourself is important
+2. The idea of wearbale tech is cool af
+3. All the current wearable tech is trash
