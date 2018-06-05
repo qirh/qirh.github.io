@@ -1,7 +1,7 @@
 # Blog [![MIT license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/qirh/qirh.github.io/master/LICENSE)
-Random Blog that lives [here](http://blog.saladesaleh.com)
+Random Blog that lives [here](http://blog.alghusson.com)
 ## Copyright Information
-  * Powered by github pages
+  * Powered by Github pages
   * Forked from [Jekyll Now](
     https://github.com/barryclark/jekyll-now)
   * Website icon: Icon made by madebyoliver from [flaticon](www.flaticon.com)

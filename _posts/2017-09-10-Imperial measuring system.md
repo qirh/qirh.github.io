@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Empirical measuring system
+title: Imperial measuring system
 ---
 
 I agree that the metric system makes more sense and is easier to use and that it deserves to be the global standard. However, I also think that there is room for multiple measurement systems in our daily lives.
