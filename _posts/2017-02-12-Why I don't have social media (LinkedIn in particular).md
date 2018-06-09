@@ -13,6 +13,8 @@ So I got into social media, and it was exciting. I have had so many experiences 
 
 However, the main problem I have with social media, is that we, the consumers, are the product being sold. Now I understand that these are (mainly) free services and they need to generate revenue somehow, however, I think that pretty much each and every one of these services, time and time again has chosen to be greedy over looking after the interest of their consumer base.
 
+I do want to share my data on the web, but same as in life, I want to share my data on my own terms, and that's why I don't like using social media.
+
 Moreover, I think that social media is bad in the way that it tries to curate users' feeds so that they read what they like and what they identify with, which in turn would increase the user return rate. The problem with this kind of thought isolation is that it gives users the illusion of being on an open internet, of sharing thoughts an ideas with regular people, but the truth is that it is only showing users what they want to hear.
 
 "If you like this, you will like that", is how social media operates, and again, the problem is that not only does social media make people ignorant by only showing them the opinions they agree with, but it does that while giving the illusion of being subjected to diverse views.
