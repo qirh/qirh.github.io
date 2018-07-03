@@ -1,5 +1,5 @@
 # Blog [![MIT license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/qirh/qirh.github.io/master/LICENSE)
-Random Blog that lives [here](http://blog.alghusson.com)
+[Blog](http://blog.alghusson.com)
 ## Copyright Information
   * Powered by Github pages
   * Forked from [Jekyll Now](
