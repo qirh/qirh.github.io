@@ -10,6 +10,5 @@ btw, hey, I'm Saleh, I'm starting this blog with the goal of trying to fight the
 
 My email is [saleh@alghusson.com](mailto:saleh@alghusson.com), feel free to reach out 😇
 
-### Github repo:
- I'll try to keep it public, but if it is not, don't hesitate to email me for questions or anything:
-  [github.com/qirh/qirh.github.io](https://github.com/qirh/qirh.github.io)
+ This blog is powered by Jekyll and github pages. You can find the repo here [github.com/qirh/qirh.github.io](https://github.com/qirh/qirh.github.io).
+
