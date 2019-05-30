@@ -5,7 +5,7 @@ title: Why I don't have social media
 
 Social media is the worst thing that happened to the internet.
 
-Disclaimer: this blog was written in 2016, updated May 2019.
+Disclaimer: this blog was written in Oct 2016, updated in May 2019.
 
 The internet allows people from all different backgrounds to connect and share ideas, in a way that no other medium has allowed before. However, the internet by itself can't connect people, there needs to be services built on top of it to do that, and that's why I was excited about the idea of social media when I first heard about it.
 
