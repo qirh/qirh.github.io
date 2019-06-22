@@ -12,4 +12,6 @@ This blog is still a work in progress, things I want to cover:
 
 Having data is really important, it helps us make decisions and put things in prospective.
 
-I personally love collecting data about myself and analyzing it, 
+I personally love collecting data about myself and analyzing it,
+
+https://www.huffpost.com/entry/what-your-fitbit-doesnt-w_b_8851664
