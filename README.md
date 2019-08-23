@@ -6,8 +6,3 @@
     https://github.com/barryclark/jekyll-now)
   * Website icon: Icon made by madebyoliver from [flaticon](www.flaticon.com)
   * Title icon: Icon made by freepik from [flaticon](www.flaticon.com)
-
-## Author's notes
-### Known bugs
-### Things to add
-### Things to improve
