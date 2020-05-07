@@ -1,5 +1,5 @@
 # Blog [![MIT license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/qirh/qirh.github.io/master/LICENSE)
-update may/2020: old blog, moved to [gitlab](https://gitlab.com/qirh/blog)
+**update may/2020:** old blog, moved to [gitlab.com/qirh/blog](https://gitlab.com/qirh/blog)
 
 ## Copyright Information
   * Powered by Github pages
